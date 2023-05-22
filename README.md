@@ -1,4 +1,5 @@
-RecTerminator: Quick and Effective Rec Room Troubleshooting Tool
+# RecTerminator
+## Quick and Effective Rec Room Troubleshooting Tool
 
 RecTerminator is a handy batch file that comes bundled with every OpenRecV2 build. This simple yet powerful tool is designed to swiftly terminate the Rec Room process and associated SteamVR processes, providing an efficient solution to address crashing and unresponsive issues.
 
